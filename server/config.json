@@ -1,5 +1,5 @@
 {
-  "host": "aps-template.glitch.me",
+  "host": "localhost:3000",
   "servesStatic": true,
   "port": 3000,
   "networkUpdateFactor": 24,
